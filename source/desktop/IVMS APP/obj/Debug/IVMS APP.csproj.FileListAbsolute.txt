@@ -1,0 +1,16 @@
+C:\Users\HP\source\desktop\IVMS APP\bin\Debug\IVMS APP.exe.config
+C:\Users\HP\source\desktop\IVMS APP\bin\Debug\IVMS APP.exe
+C:\Users\HP\source\desktop\IVMS APP\bin\Debug\IVMS APP.pdb
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS APP.csproj.AssemblyReference.cache
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS_APP.Form1.resources
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS_APP.Properties.Resources.resources
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS APP.csproj.GenerateResource.cache
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS APP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS APP.exe
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS APP.pdb
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS_APP.Form2.resources
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS_APP.Form3.resources
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS_APP.Form4.resources
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS_APP.Form5.resources
+C:\Users\HP\source\desktop\IVMS APP\obj\Debug\IVMS_APP.sell.resources
